@@ -1,0 +1,1 @@
+function inRange(num, star, end)
